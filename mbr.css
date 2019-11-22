@@ -1,0 +1,19 @@
+﻿body {
+				background-color: #00CCFF;
+}
+p {font-size: 12pt; color: black; text-align: center}
+.link
+{
+				color: blue;
+}
+.cim {
+				font-size: x-large;
+}
+table {
+			align: center;
+			text-align: center;
+			width: 80%;
+}
+hcim {
+				font-size: xx-large;
+}
